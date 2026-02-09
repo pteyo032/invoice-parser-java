@@ -4,29 +4,29 @@ A professional Java command-line application for extracting structured data from
 
 ## Features
 
-✨ **Multi-Format Support**
+**Multi-Format Support**
 - Parse PDF invoices using Apache PDFBox
 - Parse CSV invoices using OpenCSV
 - Auto-detect file format
 
-📊 **Flexible Output**
+**Flexible Output**
 - Export to JSON format
 - Export to CSV format
 - Export to both formats simultaneously
 
-🔍 **Smart Extraction**
+**Smart Extraction**
 - Invoice numbers and dates
 - Vendor and customer information
 - Line items with quantities and prices
 - Subtotals, taxes, and totals
 - Data validation (subtotal + tax = total)
 
-⚡ **Batch Processing**
+**Batch Processing**
 - Process single files
 - Process entire directories
 - Progress tracking and error reporting
 
-🧪 **Well-Tested**
+**Well-Tested**
 - Comprehensive JUnit test suite
 - Input validation
 - Error handling
